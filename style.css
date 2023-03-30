@@ -36,3 +36,15 @@ p {
     color: aqua;
     font-size: 200px;
 }
+.ja {
+    flex-direction: column-reverse;
+    color: aquamarine;
+    background-color: black;    
+    border: red 30px solid;
+    font-weight: 100;
+    font-size: 200px;
+    width: fit-content;
+    padding: 60px;
+    border-radius: 20%;
+    position: fixed;
+}
