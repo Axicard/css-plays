@@ -1,0 +1,16 @@
+p {
+    background-color: aliceblue;
+    font-size: large;
+
+    margin-top: auto;
+    margin-left: 30px;
+    border: 50px red ;
+
+}
+.one {
+ background-color: aquamarine;
+ 
+ margin-inline: green;
+ margin-top: auto;
+ border: 20px yellow;
+}
