@@ -1,16 +1,38 @@
+
+
 p {
     background-color: aliceblue;
     font-size: large;
 
     margin-top: auto;
     margin-left: 30px;
-    border: 50px red ;
+    border: 2px solid red ;
 
 }
 .one {
- background-color: aquamarine;
- 
- margin-inline: green;
- margin-top: auto;
- border: 20px yellow;
+    background-color: aquamarine;
+    margin-inline: green;
+    margin-top: auto;
+    border: 1px solid yellow;
+    font-size: small;
+}
+.two {
+    margin: 20px;
+    border: 20px solid green;
+}
+.liste1 {
+    background-color: black;
+    color: yellow   ;
+    margin: 30px    ;
+    border: red 15px solid;
+    padding-left: 20px;
+    padding-top: 15px;
+    height: auto;
+    width: 100px;
+    
+}
+.link {
+    background-color: red;
+    color: aqua;
+    font-size: 200px;
 }
