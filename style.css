@@ -5,7 +5,7 @@ p {
     font-size: large;
 
     margin-top: auto;
-    margin-left: 30px;
+    margin-left: 10%;
     border: 2px solid red ;
 
 }
@@ -37,14 +37,20 @@ p {
     font-size: 200px;
 }
 .ja {
-    flex-direction: column-reverse;
+    
     color: aquamarine;
     background-color: black;    
     border: red 30px solid;
     font-weight: 100;
-    font-size: 200px;
+    font-size: 50px;
     width: fit-content;
     padding: 60px;
     border-radius: 20%;
-    position: fixed;
+    
+}
+h2 {
+    display: contents;
+}
+.span {
+    background-color: coral;
 }
